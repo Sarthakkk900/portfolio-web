@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Sarthak Jain — Portfolio
+### Cinematic Digital Instrument
 
-## Getting Started
+A high-fidelity, highly interactive digital portfolio built for modern web performance. Designed with a "Midnight Luxe" aesthetic, this project acts as a functional artifact showcasing engineering capabilities across the MERN stack, Data Structures, and AI/ML. 
 
-First, run the development server:
+![Aesthetic](https://img.shields.io/badge/Aesthetic-Midnight_Luxe-0D0D12?style=for-the-badge)
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP_3-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
+---
+
+## ⚡ Core Features
+
+- **Hardware-Accelerated Animations**: Built utilizing `GSAP ScrollTrigger` and `gsap.context()` for highly fluid, 60fps micro-interactions and scroll sequences.
+- **Dynamic Routing**: Leveraging the power of the Next.js App Router for optimal page loading.
+- **Premium Design System**: Complete with CSS noise texturing (`<feTurbulence>`), smooth border-radius systems, magnetic hover states, and curated typography.
+- **Real-Time Contact Protocol**: Fully functional, serverless contact form integration utilizing AJAX endpoints.
+- **Responsive Architecture**: Mobile-first fluid scaling ensures the cinematic experience adapts seamlessly to any viewport.
+
+---
+
+## 🛠️ Technical Stack
+
+- **Framework:** Next.js 15 (App Router)
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS v3.4.17
+- **Animation:** GSAP 3 (with ScrollTrigger)
+- **Icons:** Lucide React
+- **Deployment:** Vercel
+
+---
+
+## 🚀 Local Deployment Sequence
+
+To run this digital instrument on your local machine:
+
+**1. Clone the repository:**
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/Sarthakkk900/portfolio-web.git
+cd portfolio-web
 ```
 
+**2. Install dependencies:**
+```bash
+npm install
+```
+
+**3. Initialize the development server:**
+```bash
+npm run dev
+```
+
+**4. View the build:**
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🌐 Production Deployment
 
-## Learn More
+This project is optimized for deployment via [Vercel](https://vercel.com).
+Any push to the `main` branch will automatically trigger a production build, ensuring instant and seamless updates.
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+git add .
+git commit -m "Update portfolio"
+git push origin main
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+*Architected and engineered by [Sarthak Jain](https://github.com/Sarthakkk900)*.
