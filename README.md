@@ -53,7 +53,7 @@ npm run dev
 ```
 
 **4. View the build:**
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+. View the build: Open (https://portfolio-web-1bbt.vercel.app/) with your browser to see the result.
 
 ---
 
