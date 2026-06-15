@@ -135,10 +135,10 @@ const AboutMe = () => {
           </h2>
           <div className="about-text font-sans text-lg text-background/80 flex flex-col gap-6 leading-relaxed">
             <p>
-              I am a Computer Science student with a deep-rooted passion for software engineering and artificial intelligence. My journey is driven by a constant curiosity to understand how complex systems operate and a desire to build solutions that are both functional and elegantly designed.
+              I am a Information Technology student at MMMUT Gorakhpur with a deep-rooted passion for software engineering and artificial intelligence. My journey is driven by a constant curiosity to understand how complex systems operate and a desire to build solutions that are both functional and elegantly designed.
             </p>
             <p>
-              Whether I'm architecting a robust MERN stack backend, experimenting with the latest in machine learning models, or consistently challenging myself with Data Structures and Algorithms, I approach every problem with precision. I believe that great software should feel like a well-crafted instrument.
+              Whether I am architecting a robust MERN stack backend, experimenting with the latest in machine learning models, or consistently challenging myself with Data Structures and Algorithms, I approach every problem with precision. I believe that great software should feel like a well-crafted instrument.
             </p>
           </div>
         </div>
