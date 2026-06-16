@@ -21,6 +21,8 @@ A high-fidelity, highly interactive digital portfolio built for modern web perfo
 
 ---
 
+## Live Demo -: https://portfolio-web-1bbt.vercel.app/
+
 ## 🛠️ Technical Stack
 
 - **Framework:** Next.js 15 (App Router)
@@ -51,10 +53,6 @@ npm install
 ```bash
 npm run dev
 ```
-
-**4. View the build:**
-. View the build: Open (https://portfolio-web-1bbt.vercel.app/) with your browser to see the result.
-
 ---
 
 ## 🌐 Production Deployment
