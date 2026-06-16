@@ -64,7 +64,7 @@ const Hero = () => {
           
           <div className="hero-reveal mb-12">
             <p className="text-foreground/80 font-sans text-lg leading-relaxed max-w-md">
-              Full Stack Developer & Computer Science student crafting modern, high-performance applications from the ground up.
+              Full Stack Developer and a engineering student crafting modern, high-performance applications from the ground up.
             </p>
           </div>
 
