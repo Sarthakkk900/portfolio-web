@@ -16,6 +16,13 @@ export default function ProjectsPage() {
       tech: ["React", "Vision API", "Next.js"],
       link: "https://ai-caption-studio-seven.vercel.app/"
     },
+    {
+      title: "GST-Calculator",
+      category: "Buisness Tool",
+      desc: "A modern GST Invoice Calculator built with Next.js that enables users to create professional invoices, calculate GST automatically.",
+      tech: ["React", "Next.js"],
+      link: "https://gst-calculator-mu-seven.vercel.app/"
+    },
    
   ];
 
